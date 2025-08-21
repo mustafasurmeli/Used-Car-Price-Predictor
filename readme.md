@@ -108,12 +108,6 @@ Contributions, improvements, and suggestions are welcome. Feel free to open issu
 
 ---
 
-## 📜 License
-
-This project is open-sourced under the MIT License.
-
----
-
 ## 📧 Contact
 
 Developed by Mustafa Surmeli – [GitHub Profile](https://github.com/mustafasurmeli)
